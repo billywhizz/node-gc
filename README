@@ -18,4 +18,4 @@ var gc = require("./gc");
 var GC = new gc.GC();
 gc.collect();
 
-run node.js for a full example.
+run test.js for a full example.
