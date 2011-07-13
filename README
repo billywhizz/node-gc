@@ -16,6 +16,6 @@ To use in a script:
 var gc = require("./gc");
 
 var GC = new gc.GC();
-gc.collect();
+GC.collect();
 
 run test.js for a full example.
